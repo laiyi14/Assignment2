@@ -1,7 +1,20 @@
+Meeting Minutes 22 May 2022
 
-convert Even project to VR 
-Sun intergate Even's 
-tutorial U.I -> how the game work?
-documentation -> 
+Discuss Final Assessment due on 3rd June and the tasks need to be complete. 
 
-deadline 27th May 2022 
+Current Tasks List:
+Yifei: convert the project to VR
+
+Kevin: Sun enemy texture, explosion effect, Movement, Interactive with players and spawners..
+
+Tasks deadline 27th May 2022 
+
+Tasks available:
+Tutorial -> show how the game work 
+Death Loop U.I show player he/she die and restart the stage
+Winning Loop U.I show player win the game and continue next stage or winning U.I  
+documentation -> Game Profile 
+
+Next meeting:
+25 May 2022 VR Workshop 
+ 
