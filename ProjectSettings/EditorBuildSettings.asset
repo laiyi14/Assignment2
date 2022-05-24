@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/World Saver.unity
     guid: acc88637215d1a04f80f338bf52532a1
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 09685510e0b0a5044bcfd85e3345c8fe, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ceb1cc4d71d9fdf469c3da7cb30ce4a5, type: 2}
