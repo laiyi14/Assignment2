@@ -3167,7 +3167,7 @@ Camera:
   m_GameObject: {fileID: 284193478}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
+  m_ClearFlags: 2
   m_BackGroundColor: {r: 0.85294116, g: 0.57647055, b: 0.42647058, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -6913,6 +6913,7 @@ GameObject:
   m_Component:
   - component: {fileID: 586868939}
   - component: {fileID: 586868938}
+  - component: {fileID: 586868940}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -6996,6 +6997,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 50, y: 96.22, z: 0}
+--- !u!114 &586868940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 586868937}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ec2de154d898d346ae0127b3ea4d221, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &589780297 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: 96e82463b7d46344295e9a965beb41f9, type: 3}
@@ -10855,7 +10868,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: -6.2870845e+31, z: -4.1073416e-23, w: 0.0000000038382204}
+  m_BoundingSphereOverride: {x: 0, y: -5.694587e-10, z: 7.6e-43, w: -4.910916e-10}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -11453,7 +11466,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1049849320
 PrefabInstance:
